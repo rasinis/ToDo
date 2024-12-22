@@ -17,8 +17,6 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/rasinis/ToDo.git
 
-## Video Demo
+## Demo Video
+[Watch the video here](https://drive.google.com/file/d/1x_gyv_liMWatKAysR6ihQuZ6jWrb31Oe/view?usp=drive_link)
 
-Check out the demo video of the ToDo app:
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1x_gyv_liMWatKAysR6ihQuZ6jWrb31Oe/view?usp=drive_link)

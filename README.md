@@ -14,7 +14,7 @@ A simple and intuitive ToDo application to manage tasks and increase productivit
 
 Clone the repository to your local machine:
 
-```bash
+## bash
 git clone https://github.com/rasinis/ToDo.git
 
 ## Demo Video
